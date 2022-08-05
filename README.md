@@ -15,9 +15,10 @@ Does not include Flixel source files by Adam Saltsman. Sounds made with Cfxr by 
 
 See original tutorial at http://www.creativeapplications.net/flash/flixel-2-tutorial-flash-tutorials-games/
 
-Part 1 - https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/flixel-2-tutorial-extended/
-Part 2 - https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/flixel-2-te-part-2/
-Part 3 - There is not a tutorial for this one, but source is included.
+Tutorial Links
+* [Part 1](https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/flixel-2-tutorial-extended)
+* [Part 2](https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/flixel-2-te-part-2)
+* Part 3 - There is not a tutorial for this one, but source is included in this repository.
 
 Shoot Em Up - Part 1
 ------
@@ -26,4 +27,5 @@ This tutorial was part of a ground up experience that included installing your d
 
 This project was compiled against Flixel v2.53 (and tested with 2.43), Flex SDK 4.1 and Flash Player 10.2. It also includes Flixel 2.53 source files by Adam Saltsman.
 
-Part 1 - https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/making-your-first-game-a-shoot-em-up/
+Tutorial Link
+* [Part 1](https://omegastorm.wordpress.com/archives/flash/flixel-tutorials/making-your-first-game-a-shoot-em-up)
